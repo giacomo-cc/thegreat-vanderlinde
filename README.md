@@ -1,5 +1,5 @@
 ### dutch
 
-rust crypto dev 🦀
+blockchain dev 🦀 working on [Vyper](https://github.com/vyper-protocol) 🐍
 
-[Twitter](https://twitter.com/vanderlinde____) | [Medium](https://medium.com/@vanderlinde____)
+[Twitter](https://twitter.com/vanderlinde____)
